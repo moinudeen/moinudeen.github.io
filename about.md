@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am an Engineer/Researcher currently working on building ML systems at vue.ai
 
-### More Information
+Interests: 
+Computer vision
+NLP
+Reinforcement Learning
 
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[moinu.95@gmail.com](mailto:moinu.95@gmail.com)
