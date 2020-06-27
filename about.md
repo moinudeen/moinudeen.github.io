@@ -12,8 +12,8 @@ I am an Engineer/Researcher currently working on building ML systems at vue.ai. 
 - Self Supervised Learning
 
 ## Resume
-You can take a look at my resume [here](https://github.com/moinudeen/moinudeen.github.io/raw/master/Syed_Moinudeen_CV.pdf)
+You can take a look at my resume [here](https://moinudeen.github.io/Syed_Moinudeen_CV.pdf)
 
 ## Contact me
 
-You can reach out to me through([email](mailto:moinu.95@gmail.com)) or through Linkedin and Twitter(links below).
+You can reach out to me through [email](mailto:moinu.95@gmail.com) or through Linkedin and Twitter(links below).
