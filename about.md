@@ -4,14 +4,16 @@ title: About
 permalink: /about/
 ---
 
-I am an Engineer/Researcher currently working on building ML systems at vue.ai
+I am an Engineer/Researcher currently working on building ML systems at vue.ai. I love building intelligent systems for solving real problems. 
 
-Interests: 
-Computer vision
-NLP
-Reinforcement Learning
+## Interests: 
+- Computer Vision
+- Natural Language Processing
+- Self Supervised Learning
 
+## Resume
+You can take a look at my resume [here](https://github.com/moinudeen/moinudeen.github.io/raw/master/Syed_Moinudeen_CV.pdf)
 
-### Contact me
+## Contact me
 
-[moinu.95@gmail.com](mailto:moinu.95@gmail.com)
+You can reach out to me through([email](mailto:moinu.95@gmail.com)) or through Linkedin and Twitter(links below).
